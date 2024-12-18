@@ -25,6 +25,7 @@
  <br>
  <br>
 
+</hr>
 <table align="center">
 <thead>
 <tr>
@@ -63,6 +64,30 @@
 </tr>
 </tbody>
 </table>
+
+</hr>
+<br>
+<br>
+
+<h1>
+  My stats ⭐
+</h1>
+<br>
+<br>
+
+<div align="center">
+  <img alt="Akash's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Akashssss&show_icons=true&theme=transparent" width="400" height="200" style="margin-right: 20px;"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashssss&layout=compact&&langs_count=8" width="400" height="200"/>
+</div>
+
+<br>
+<br>
+
+
+### Profile views counter 👁️‍🗨️
+[![Akash's profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Akashssss)
+
+
 
 
 
